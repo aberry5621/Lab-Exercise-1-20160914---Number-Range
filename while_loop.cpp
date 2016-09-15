@@ -15,10 +15,6 @@ int main() {
 	int counter = 10;
 	int doubled = 0;
 
-	// I
-	cout << "Enter lower bound: ";
-
-
 	// P  // O
 	while (counter < 100) 
 	{
